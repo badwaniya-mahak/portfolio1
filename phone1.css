@@ -1,0 +1,21 @@
+#home{
+    height:820px;
+}
+.headings{
+    font-size: 1.7rem;
+}
+#about{
+    padding-top: 1em;
+}
+#pic img{
+    width: 200px;
+    height: 275px;
+}
+#intro h2{
+    font-size: 1.5rem;
+}
+.gallery img{
+    width:300px;
+    height: 240px;
+    margin: 10PX;
+}
